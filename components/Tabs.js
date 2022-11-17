@@ -1,6 +1,7 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';
 import { Text, View, StyleSheet, Image } from 'react-native';
+import { Button } from 'react-native-paper';
 import Busca from '../Screens/Busca';
 import Carros from '../Screens/Carros';
 import Estacionamento from '../Screens/Estacionamento';
